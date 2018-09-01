@@ -1,0 +1,6 @@
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\NamesiloAuto.exe.config
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\NamesiloAuto.exe
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\NamesiloAuto.pdb
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\obj\Debug\NamesiloAuto.csprojResolveAssemblyReference.cache
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\obj\Debug\NamesiloAuto.exe
+c:\users\a.chumakin\documents\visual studio 2013\Projects\NamesiloAuto\NamesiloAuto\obj\Debug\NamesiloAuto.pdb

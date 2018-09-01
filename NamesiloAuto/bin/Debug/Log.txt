@@ -1,0 +1,173 @@
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+TEST0
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+TEST1
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+
+TEST1
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+Cannot initialize status of bid, response text: our web site due to irregular browsing activity. Please contact us at support@namesilo.com if you believe this to be in error.
+
+#################
+
+
+to add account funds</a>.
+            
+#################
+
+
+### Error: Cannot set bid '2' for url '/Auctions?auction=Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #6':
+orry, no results matched your search.<br><a href="#" onClick="javascript:window.location=\'/Auctions\';">Reset this form</a>
+#################
+
+
+Cannot move file from 'C:\Users\a.chumakin\Documents\Visual Studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\BIG_DATA\Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #6___2.txt' to 'C:\Users\a.chumakin\Documents\Visual Studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\BIG_DATA/FAIL\Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #6___2.txt': The given path's format is not supported..
+### Error: Cannot set bid '2a' for url '/Auctions?auction=Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #7':
+orry, no results matched your search.<br><a href="#" onClick="javascript:window.location=\'/Auctions\';">Reset this form</a>
+#################
+
+
+Cannot move file from 'C:\Users\a.chumakin\Documents\Visual Studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\BIG_DATA\Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #7___2a.txt' to 'C:\Users\a.chumakin\Documents\Visual Studio 2013\Projects\NamesiloAuto\NamesiloAuto\bin\Debug\BIG_DATA/FAIL\Duplicate url: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9 #7___2a.txt': The given path's format is not supported..
+### Error: Cannot set bid '1' for url '/Auctions?auction=ZmRmZGZmZmLmZwZ43o96689r442no81s4422931653qn4270':
+Sorry, but you do not have an adequate account funds balance to place this bid. You must have enough account
+            funds to cover your bid as well as to pay for any active auctions (including renewals) for which you have the 
+            highest bid. You would need $19.98 in account funds to cover the attempted bid, 
+            but you currently only have $10.00.
+            <p></p>
+            Please <a href="/account_funds_add.php">click here to add account funds</a>.
+            
+#################
+
+
+### Error: Cannot set bid '2' for url '/Auctions?auction=ZmRmZGZmZmZmAmZm15o18496oss026n7s14q9s409rqp8ons':
+his auction has either expired or is not valid.
+#################
+
+
+    but you currently only have $10.00.
+            <p></p>
+            Please <a href="/account_funds_add.php">click here to add account funds</a>.
+            
+#################
+
+
+### Error: Cannot set bid '2' for url '/Auctions?auction=ZmRmZGZmZmZmAmZm15o18496oss026n7s14q9s409rqp8ons':
+his auction has either expired or is not valid.
+#################
+
+
+TEST2
+
+
+
+
+
+TEST3
+
+TEST4

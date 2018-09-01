@@ -1,0 +1,10 @@
+1. Create txt-file for each bid with the name in the next format: {last part of auction url}___{bid}.txt
+for example: ZmRmZGZmZmHmAwZ4n36q47n9p0nnqnpr6n6rsooo5r39q0n9___1.txt
+2. Copy all these files into "BIG_DATA" folder
+3. Run NamesiloAuto.exe file.
+4. Fill in User to login into https://www.namesilo.com and press 'Enter'
+5. Fill in password and press enter
+   - 	program will process all your prepared txt-files, 
+	move files with successful bids into "BIG_DATA/DONE" folder, failed - into "BIG_DATA/FAIL" folder,
+	you can copy/create any new files with the same template again into "BIG_DATA" folder - it will be processed in 1 second,
+	you can review log of result in Log.txt file (in the same folder as exe-file)
